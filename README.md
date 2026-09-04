@@ -8,3 +8,4 @@ I'm Creating a new project :)
 
 Watch Tutorial on YouTube.com
 
+1. Open index.html in your browser.
